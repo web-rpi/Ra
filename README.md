@@ -74,4 +74,4 @@ The configuration is flashed exactly like that of the loader. The only differenc
 ->	The “Prog. Addr. “Must be on 0x3800!<br>
 ->	Now the configuration can be flashed onto the chip with "Program Device"<br><br>
 
-<b><h5>Finished! The Ra is now ready for use.<h5/><b/>
+<b><h1>Finished! The Ra is now ready for use.<h1/><b/>
