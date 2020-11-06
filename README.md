@@ -2,7 +2,7 @@
 
 Here I'll show you how you can easily set up, flash, configure and test a "Ra" from DF9DQ (https://github.com/einergehtnochrein).<br>
 
-<b>Flash the loader<br>
+<b>Flash the loader</b><br>
 In order to be able to use the Ra, this requires a "secondary bootloader". This enables the firmware to be updated via the app. Since creating this loader is a bit more complex, I have already compiled the latest loader version (version 4) and uploaded it here. If you are interested in compiling, please contact me.
 To flash the loader to the NXP chip you need an "LPC Link 2" or a similar programmer. These are available on the Internet. I did the flashing with the software "J-Flash Lite V6.86f".
 ->	Set jumper "J7" on the LPC Link 2<br>
