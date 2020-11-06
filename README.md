@@ -3,7 +3,7 @@
 Here I'll show you how you can easily set up, flash, configure and test a "Ra" from DF9DQ (https://github.com/einergehtnochrein).<br>
 
 <b>Setting up the Ra app</b><br>
-First, the following folder structure must be created on the SD card or the internal memory of the phone.
+First, the following folder structure must be created on the SD card or the internal memory of the phone.<br>
      └─── ra<br>
          	├─── firmware<br>
          	├─── hgt<br>
