@@ -32,8 +32,8 @@ To flash the loader to the NXP chip you need an "LPC Link 2" or a similar progra
 
 <b>Flash firmware</b><br>
 The firmware of the Ra‘ is flashed via the Android app. Here the app must be installed on the phone or tablet.
-The latest firmware can be downloaded here: https://github.com/einergehtnochrein/ra-firmware/wiki/FirmwareReleases/
-->	Connect the phone to the Ra via Bluetooth<br>
+The latest firmware can be downloaded here: https://github.com/einergehtnochrein/ra-firmware/wiki/FirmwareReleases/<br>
+->	Connect the phone to the Ra (LAIRD BL652) via Bluetooth<br>
 ->	Start the "Ra" app<br>
 ->	Click on the three dots at the top right<br>
 ->	Click on the menu item “Aktuelle Ra-Firmware laden”<br>
