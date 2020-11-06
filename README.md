@@ -26,7 +26,7 @@ To flash the loader to the NXP chip you need an "LPC Link 2" or a similar progra
 ->	"LPC54114J256" must be selected as the device<br>
 ->	Interface remains with SWD with 4000 kHz<br>
 ->	Click on "OK"<br>
-->	"ra2_loader_V4.hex" is now selected<br>
+->	"ra2_loader_V4.hex" is selected<br>
 ->	The “Prog. Addr. “Must be on 0x00000000!<br>
 ->	Now the loader can be flashed onto the chip with "Program Device"<br><br>
 
@@ -70,7 +70,7 @@ The configuration is flashed exactly like that of the loader. The only differenc
 ->	"LPC54114J256" must be selected as the device<br>
 ->	Interface remains with SWD with 4000 kHz<br>
 ->	Click on "OK"<br>
-->	"conf_XX.bin" is now selected<br>
+->	"conf_XX.bin" is selected<br>
 ->	The “Prog. Addr. “Must be on 0x3800!<br>
 ->	Now the loader can be flashed onto the chip with "Program Device"<br><br>
 
