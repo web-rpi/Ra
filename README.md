@@ -58,7 +58,7 @@ referenceFrequency = reference frequency of the oscillator<br>
 rssiCorrectionLnaOn = RSSI correction when the preamp is switched on<br>
 rssiCorrectionLnaOff = RSSI correction when the preamp is switched off<br>
 nameBluetooth = Bluetooth name of the Ra<br>
-If all values are adjusted to your own Ra, the script can be started with the call "python ra_conf.py". Shortly afterwards, all configurations are created and stored in the same directory.
+If all values are adjusted to your own Ra, the script can be started with the call "python ra_conf.py". Shortly afterwards, all configurations are created and stored in the same directory.<br>
 If the error “module crcmod not found” appears, the named module must be installed with “pip install crcmod”.<br>
 In windows 10, Python has to be installed first. This can be easily downloaded and installed from the app store.<br>
 https://www.microsoft.com/de-de/p/python-39/9p7qfqmjrfp7?activetab=pivot:overviewtab
