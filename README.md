@@ -1,6 +1,6 @@
 # How to build "Ra" from DF9DQ
 
-Here I'll show you how you can easily set up, flash, configure and test a "Ra" from DF9DQ (https://github.com/einer gehtnochrein).
+Here I'll show you how you can easily set up, flash, configure and test a "Ra" from DF9DQ (https://github.com/einergehtnochrein).<br>
 
 Flash the loader
 In order to be able to use the Ra, this requires a "secondary bootloader". This enables the firmware to be updated via the app. Since creating this loader is a bit more complex, I have already compiled the latest loader version (version 4) and uploaded it here. If you are interested in compiling, please contact me.
@@ -15,8 +15,8 @@ To flash the loader to the NXP chip you need an "LPC Link 2" or a similar progra
 ->	Now the loader can be flashed onto the chip with "Program Device"
 
 Flash firmware
-The firmware of the Ra‘ is flashed via the Android app. Here the app must be installed on the phone or tablet. I will not go into this further because DF9DQ has already written instructions. https://github.com/einer gehtnochrein/ra-hardware/wiki/app_installation
-The latest firmware can be downloaded here: https://github.com/einer gehtnochrein/ra-firmware/wiki/FirmwareReleases/
+The firmware of the Ra‘ is flashed via the Android app. Here the app must be installed on the phone or tablet. I will not go into this further because DF9DQ has already written instructions. https://github.com/einergehtnochrein/ra-hardware/wiki/app_installation
+The latest firmware can be downloaded here: https://github.com/einergehtnochrein/ra-firmware/wiki/FirmwareReleases/
 ->	Connect the phone to the Ra via Bluetooth
 ->	Start the "Ra" app
 ->	Click on the three dots at the top right
