@@ -4,13 +4,12 @@ Here I'll show you how you can easily set up, flash, configure and test a "Ra" f
 
 <b>Setting up the Ra app</b><br>
 First, the following folder structure must be created on the SD card or the internal memory of the phone.<br>
-<tab id=t1>└─── ra<br>
-<tab id=t1><tab id=t1>├─── firmware<br>
-<tab id=t1><tab id=t1>├─── hgt<br>
-<tab id=t1><tab id=t1>├─── map<br>
-<tab id=t1><tab id=t1>│<tab id=t1>└─── theme<br>
-<tab id=t1><tab id=t1>└─── tiles<br>
-<tab id=t1><tab id=t1>└─── dop<br>
+
+<p class="tab"> Text</p>
+
+
+
+
 I saved the folder structure as a ZIP file in the “Copy to SD” folder.
 The map files and elevation profiles required for the map view are now required.
 These are available here https://ftp-stud.hs-esslingen.de/pub/Mirrors/download.mapsforge.org/maps/v5/ (map files) and here https://gliding.lxnav.com/lxdownloads/hgt-maps/ (elevation profile) available for download.
