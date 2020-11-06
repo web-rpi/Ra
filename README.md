@@ -64,7 +64,7 @@ In windows 10, Python has to be installed first. This can be easily downloaded a
 https://www.microsoft.com/de-de/p/python-39/9p7qfqmjrfp7?activetab=pivot:overviewtab
 
 <b>Flashing the Ra configuration</b><br>
-The configuration is flashed exactly like that of the loader. The only difference is the address. This must be here at 0x3800.
+The configuration is flashed exactly like that of the loader. The only difference is the address. This must be here at 0x3800.<br>
 ->	Set jumper "J7" on the LPC Link 2<br>
 ->	Start the "J-Flash Lite V6.86f" software<br>
 ->	"LPC54114J256" must be selected as the device<br>
