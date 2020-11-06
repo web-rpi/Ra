@@ -4,21 +4,18 @@ Here I'll show you how you can easily set up, flash, configure and test a "Ra" f
 
 <b>Setting up the Ra app</b><br>
 First, the folder structure must be created on the SD card or the internal memory of the phone.<br>
-I saved the folder structure as a ZIP file in the “Copy to SD” folder.
-The map files and elevation profiles required for the map view are now required.
-These are available here https://ftp-stud.hs-esslingen.de/pub/Mirrors/download.mapsforge.org/maps/v5/ (map files) and here https://gliding.lxnav.com/lxdownloads/hgt-maps/ (elevation profile) available for download.
-The map files are stored on the SD card in the folder structure /ra/map/.
-The height profiles (.hgt) are stored in /ra/hgt/.
-The downloaded firmware (.hex) https://github.com/einergehtnochrein/ra-firmware/wiki/FirmwareReleases is stored in the folder / ra / firmware.
+I saved the folder structure as a ZIP file in the “Copy to SD” folder.<br>
+The map files and elevation profiles required for the map view are now required.<br>
+These are available here https://ftp-stud.hs-esslingen.de/pub/Mirrors/download.mapsforge.org/maps/v5/ (map files) and here https://gliding.lxnav.com/lxdownloads/hgt-maps/ (elevation profile) available for download.<br>
+The map files are stored on the SD card in the folder structure /ra/map/.<br>
+The height profiles (.hgt) are stored in /ra/hgt/.<br>
+The downloaded firmware (.hex) https://github.com/einergehtnochrein/ra-firmware/wiki/FirmwareReleases is stored in the folder / ra / firmware.<br>
 
-The apk can be downloaded here:
-https://github.com/einergehtnochrein/ra-hardware/wiki#android-app
+The apk can be downloaded here:<br>
+https://github.com/einergehtnochrein/ra-hardware/wiki#android-app<br>
 
-Original installation instructions from DF9DQ:
-https://github.com/einergehtnochrein/ra-hardware/wiki/app_installation
-
-
-
+Original installation instructions from DF9DQ:<br>
+https://github.com/einergehtnochrein/ra-hardware/wiki/app_installation<br>
 
 
 <b>Flash the loader</b><br>
