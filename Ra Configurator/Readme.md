@@ -1,4 +1,7 @@
 # Ra Configurator
 
-config.ini nach eigenen Bedürfnissen anpassen.
-mit python ra_conf.py bin-Files erzeugen.
+config.ini<br>
+Configuration file for ra_conf.py<br><br>
+
+Python Script<br>
+ra_conf.py<br><br>
