@@ -5,7 +5,7 @@ Here I'll show you how you can easily set up, flash, configure and test a "Ra" f
 <b>Setting up the Ra app</b><br>
 First, the following folder structure must be created on the SD card or the internal memory of the phone.<br>
 
-<p class="tab"> Text</p>
+
 
 
 
