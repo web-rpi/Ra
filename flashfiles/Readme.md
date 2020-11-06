@@ -7,4 +7,4 @@ ra2_firmware_V43.0.hex  <br/>
 Firmware for Ra <br/>
 
 conf_49.bin <br/>
-Example Configuratiom for Ra <br\>
+Example Configuratiom for Ra <br/>
