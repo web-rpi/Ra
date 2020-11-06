@@ -43,7 +43,7 @@ The latest firmware can be downloaded here: https://github.com/einergehtnochrein
 
 <b>Update the BLE module</b><br>
 As outdated firmware is installed on the BLE modules, it must be replaced by a newer one (v28.9.5.0) so that the BT name of the Ra‘ can also be individually adapted.
-It is imperative to ensure that the Loader V4 has been flashed on the NXP chip. If this is not the case, the BLE module can be destroyed under certain circumstances.
+It is imperative to ensure that the Loader V4 has been flashed on the NXP chip. If this is not the case, the BLE module can be destroyed under certain circumstances.<br>
 ->	Before connecting the Ra’s, the test point (TP2) between the NXP chip and the BLE module must be grounded.<br>
 ->	The Ra is now recognized as a "serial device" on the computer<br>
 ->	Start BL65xUartFwUpgrade.exe<br>
