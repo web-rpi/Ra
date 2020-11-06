@@ -14,7 +14,7 @@ To flash the loader to the NXP chip you need an "LPC Link 2" or a similar progra
 ->	The “Prog. Addr. “Must be on 0x00000000!<br>
 ->	Now the loader can be flashed onto the chip with "Program Device"<br><br>
 
-Flash firmware<br>
+<b>Flash firmware</b><br>
 The firmware of the Ra‘ is flashed via the Android app. Here the app must be installed on the phone or tablet. I will not go into this further because DF9DQ has already written instructions. https://github.com/einergehtnochrein/ra-hardware/wiki/app_installation
 The latest firmware can be downloaded here: https://github.com/einergehtnochrein/ra-firmware/wiki/FirmwareReleases/
 ->	Connect the phone to the Ra via Bluetooth<br>
@@ -25,7 +25,7 @@ The latest firmware can be downloaded here: https://github.com/einergehtnochrein
 ->	The process takes about 10 minutes (the app must remain in the foreground during this time!)<br>
 ->	The current versions can be read out using the "About" menu item<br><br>
 
-Update the BLE module<br>
+<b>Update the BLE module</b><br>
 As outdated firmware is installed on the BLE modules, it must be replaced by a newer one (v28.9.5.0) so that the BT name of the Ra‘ can also be individually adapted.
 It is imperative to ensure that the Loader V4 has been flashed on the NXP chip. If this is not the case, the BLE module can be destroyed under certain circumstances.
 ->	Before connecting the Ra’s, the test point (TP2) between the NXP chip and the BLE module must be grounded.<br>
@@ -35,7 +35,7 @@ It is imperative to ensure that the Loader V4 has been flashed on the NXP chip. 
 ->	Click Proceed (extreme caution! The BLE module can very easily be made unusable)<br>
 ->	With the UWTerminalX program, the current firmware can be checked with the command "at i 3"<br><br>
 
-Creating the Ra configuration<br>
+<b>Creating the Ra configuration</b><br>
 A small Python script was written to create the configuration files for the Ra.
 Here, the config.ini must first be adapted to the specific values.
 referenceFrequency = reference frequency of the oscillator
@@ -45,7 +45,7 @@ nameBluetooth = Bluetooth name of the Ra
 If all values are adjusted to your own Ra, the script can be started with the call "python ra_conf.py". Shortly afterwards, all configurations are created and stored in the same directory.
 If the error “module crcmod not found” appears, the named module must be installed with “pip install crcmod”.
 
-Flashing the Ra configuration<br>
+<b>Flashing the Ra configuration</b><br>
 The configuration is flashed exactly like that of the loader. The only difference is the address. This must be here at 0x3800.
 ->	Set jumper "J7" on the LPC Link 2<br>
 ->	Start the "J-Flash Lite V6.86f" software<br>
