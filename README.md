@@ -71,7 +71,7 @@ The configuration is flashed exactly like that of the loader. The only differenc
 ->	Interface remains with SWD with 4000 kHz<br>
 ->	Click on "OK"<br>
 ->	"conf_XX.bin" is selected<br>
-->	The “Prog. Addr. “Must be on 0x3800!<br>
+->	The “Prog. Addr. “Must be on 0x38000!<br>
 ->	Now the configuration can be flashed onto the chip with "Program Device"<br><br>
 
 <b><h1>Finished! The Ra is now ready for use.<h1/><b/>
