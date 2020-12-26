@@ -6,7 +6,7 @@ Here I'll show you how you can easily set up, flash, configure and test a "Ra" f
 First, the folder structure must be created on the SD card or the internal memory of the phone.<br>
 I saved the folder structure as a ZIP file in the “Copy to SD” folder.<br>
 The map files and elevation profiles required for the map view.<br>
-These are available here https://ftp-stud.hs-esslingen.de/pub/Mirrors/download.mapsforge.org/maps/v5/ (map files) and here https://gliding.lxnav.com/lxdownloads/hgt-maps/ (elevation profile).<br>
+These are available here https://ftp-stud.hs-esslingen.de/pub/Mirrors/download.mapsforge.org/maps/v5/ (map files) and here https://drive.google.com/drive/folders/0BxphPoRgwhnoWkRoTFhMbTM3RDA (elevation profile).<br>
 The map files are stored on the SD card in the folder structure /ra/map/.<br>
 The height profiles (.hgt) are stored in /ra/hgt/.<br>
 The downloaded firmware (.hex) https://github.com/einergehtnochrein/ra-firmware/wiki/FirmwareReleases is stored in the folder /ra/firmware/.<br>
