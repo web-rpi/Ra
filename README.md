@@ -9,6 +9,7 @@ The map files and elevation profiles required for the map view.<br>
 These are available here https://ftp-stud.hs-esslingen.de/pub/Mirrors/download.mapsforge.org/maps/v5/ (map files) and here https://drive.google.com/drive/folders/0BxphPoRgwhnoWkRoTFhMbTM3RDA (elevation profile).<br>
 The map files are stored on the SD card in the folder structure /ra/map/.<br>
 The height profiles (.hgt) are stored in /ra/hgt/.<br>
+For Map-Tiles: https://www.thunderforest.com/maps/outdoors/
 The downloaded firmware (.hex) https://github.com/einergehtnochrein/ra-firmware/wiki/FirmwareReleases is stored in the folder /ra/firmware/.<br>
 
 The apk can be downloaded here:<br>
